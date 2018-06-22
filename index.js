@@ -1,6 +1,6 @@
 const express        = require('express');
 // const mustacheExpress = require('mustache-express');
-// const bodyParser     = require('body-parser');
+// const bodyParser     = require('body-parser'); // no longer exists?
 // const pgp = require('pg-promise')();
 
 const app  = express();
