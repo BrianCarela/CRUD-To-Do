@@ -1,0 +1,19 @@
+{
+  "name": "crud-to-do",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianCarela/CRUD-To-Do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianCarela/CRUD-To-Do/issues"
+  },
+  "homepage": "https://github.com/BrianCarela/CRUD-To-Do#readme"
+}
