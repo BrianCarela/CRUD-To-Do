@@ -3,6 +3,8 @@ const express        = require('express');
 // const bodyParser     = require('body-parser'); // no longer exists?
 // const pgp = require('pg-promise')();
 
+// sigh, we're gonna have to come back to this at some point
+
 const app  = express();
 const PORT = process.env.PORT || 8080;
 
